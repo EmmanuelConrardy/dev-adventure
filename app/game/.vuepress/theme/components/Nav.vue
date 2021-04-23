@@ -7,7 +7,7 @@
 		</span>
 
 		<span class="lg:w-1/2 md:w-full sm:w-full w-full">
-			<span class="title cursor-pointer block m-1 lg:m-4 md:m-2 sm:m-1" @click="goHome()">Une journée de dev</span>
+			<span class="title cursor-pointer block m-1 lg:m-4 md:m-2 sm:m-1" @click="goHome()">Tales of Legacy Code</span>
 		</span>
 
 		<div v-on:click="openNav()" class="lg:hidden">
