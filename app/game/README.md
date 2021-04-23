@@ -1,5 +1,5 @@
 ---
-backdrop: images/programmer.png
+backdrop: images/pixel_lara.jpg
 ---
 
 # Laura Craft : à la recherche de la Rose Dorée
