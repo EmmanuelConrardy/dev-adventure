@@ -36,7 +36,7 @@ export default {
 	},
 	data() {
 		return {
-			hidden: 'lg:inline-block md:hidden sm:hidden hidden w-1/2',
+			hidden: 'lg:inline-block md:hidden sm:hidden hidden w-1/3',
 		};
 	},
 	computed: {

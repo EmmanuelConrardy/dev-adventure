@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\game",
+    "\\app\\game\\.vuepress",
+    "\\app\\game\\.vuepress\\public",
+    "\\app\\game\\.vuepress\\public\\images",
+    "\\app\\game\\.vuepress\\theme",
+    "\\app\\game\\.vuepress\\theme\\components",
+    "\\app\\game\\.vuepress\\theme\\layouts",
+    "\\app\\game\\.vuepress\\theme\\styles",
+    "\\app\\game\\.vuepress\\theme\\utils"
+  ],
+  "PreviewInSolutionExplorer": false
+}

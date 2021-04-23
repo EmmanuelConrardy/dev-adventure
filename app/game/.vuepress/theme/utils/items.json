@@ -1,16 +1,30 @@
 [
 	{
 		"id": 1,
-		"instructions": "Pick up the",
-		"name": "key",
+		"instructions": "Bien refactoriser son code.",
+		"name": "refactor",
 		"initialHide": true,
-		"result": "You use your ship's robotic arm to pick up the key."
+		"result": "Code nettoyé !"
 	},
 	{
 		"id": 2,
-		"instructions": "Ignore the key and instead pick up an interesting",
-		"name": "meteorite",
+		"instructions": "Faire une bonne code review",
+		"name": "code review",
 		"initialHide": true,
-		"result": "That's not super helpful. Now what?"
+		"result": "Code reviewé !"
+	},
+	{
+		"id": 3,
+		"instructions": "Planning meeting",
+		"name": "planning",
+		"initialHide": true,
+		"result": "Tâches plannifiées !"
+	},
+	{
+		"id": 4,
+		"instructions": "Echanger, transmettre, apprendre",
+		"name": "mentoring",
+		"initialHide": true,
+		"result": "Mentee on his mastery road !"
 	}
 ]

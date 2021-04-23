@@ -45,3 +45,6 @@ Build the site locally:
 You can deploy this site to your own Static Web App:
 
 [![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=gameengine-github-jelooper#create/Microsoft.StaticApp)
+
+<!-- https://www.pinterest.fr/pin/484207397441751870/ -->
+<!-- https://github.com/jlooper/azure-space-mystery/blob/main/app/game/.vuepress/theme/utils/items.json -->

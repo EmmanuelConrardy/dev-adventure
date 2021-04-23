@@ -1,5 +1,5 @@
 module.exports = {
-	title: 'SpaceQuest',
+	title: 'Developer journey',
 	description: 'Enjoy the Journey',
 	postcss: {
 		plugins: [require('autoprefixer'), require('tailwindcss')('./tailwind.config.js')],
