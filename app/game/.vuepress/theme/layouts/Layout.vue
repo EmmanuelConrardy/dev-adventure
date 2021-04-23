@@ -11,9 +11,9 @@
 				&nbsp;
 			</div>
 			<div class="flex mb-4">
-				<div v-if="!fullScreenLayout" role="complementary" :class="hidden">
+				<!-- <div v-if="!fullScreenLayout" role="complementary" :class="hidden">
 					<component :is="inventory"></component>
-				</div>
+				</div> -->
 				<div role="main" class="w-full">
 					<component :is="layout"></component>
 				</div>

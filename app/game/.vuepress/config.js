@@ -1,6 +1,6 @@
 module.exports = {
-	title: 'Developer journey',
-	description: 'Enjoy the Journey',
+	title: 'Aventure Laura Craft ',
+	description: '',
 	postcss: {
 		plugins: [require('autoprefixer'), require('tailwindcss')('./tailwind.config.js')],
 	},
